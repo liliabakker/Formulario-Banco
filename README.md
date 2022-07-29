@@ -1,2 +1,2 @@
 # Formulario-Banco
-Criação de um formulário de cadastro e integração com banco de dados 
+Criação de um formulário de cadastro de clientes e armazenamento com integração ao banco de dados 
